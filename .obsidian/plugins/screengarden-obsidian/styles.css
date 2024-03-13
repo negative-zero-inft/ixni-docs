@@ -1,0 +1,48 @@
+.tree-item-self:has(> .sg-file-indictator-parent) {
+    position: relative;
+}
+
+.tree-item-self > .tree-item-inner:has(+ .sg-file-indictator-parent) {
+    padding-right: var(--size-4-4);
+}
+
+.sg-file-indictator-parent {
+    position: absolute;
+    right: var(--size-4-2);
+    top: 0;
+    bottom: 0;
+    display: flex;
+    align-items: center;
+}
+
+.sg-help {
+    cursor: help;
+}
+
+.sg-help:hover {
+    color: var(--text-accent);
+}
+
+a.sg-btn {
+    -webkit-app-region: no-drag;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    font-size: var(--font-ui-small);
+    border-radius: var(--button-radius);
+    border: 0;
+    padding: var(--size-4-1) var(--size-4-3);
+    height: var(--input-height);
+    font-weight: var(--input-font-weight);
+    cursor: var(--cursor);
+    font-family: inherit;
+    outline: none;
+    user-select: none;
+    white-space: nowrap;
+    background-color: var(--interactive-accent);
+    color: var(--text-on-accent);
+}
+
+a.sg-btn:hover {
+    background-color: var(--interactive-accent-hover);
+}

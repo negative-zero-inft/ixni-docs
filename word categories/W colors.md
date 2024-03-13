@@ -1,0 +1,13 @@
+- [[blux]] - red
+- [[nab]] - blue
+- [[jelo]] - yellow 
+- [[xwarc]] - black
+- [[wajs]] - white
+- [[grej]] - grey
+- [[zilen]] - green
+- [[pomarax]] - orange
+- [[purpur]] - purple
+- [[rux]] - pink
+- [[brox]] - brown
+- [[fraba]] - color, colorful
+- [[xaj]] - bright

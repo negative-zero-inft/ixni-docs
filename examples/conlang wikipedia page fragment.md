@@ -1,0 +1,3 @@
+#examples
+[english original](https://en.wikipedia.org/wiki/Constructed_language)
+[[jezek]], [[xto]][[e]] [[dyla]] [[specyfix]] [[cel]], [[xto]] [[fikcja]] [[to]] [[je]] [[to]] [[moxex]], [[doromi]][[et]] [[zamas]] [[ewol]][[et]] [[gramar]], [[znakia]] [[are]] [[fonologij]] [[je]] [[conlang]][[ei]] [[je]]. [[tex]] [[doromi]][[et]] [[jezek]], [[plan]][[ei]] [[jezek]], [[artifix]] [[jezek]] [[lup]] [[nawet]] [[fikcja]] [[jezek]] [[conlang]][[ei]] [[xyl]][[ei]] [[nejmox]]

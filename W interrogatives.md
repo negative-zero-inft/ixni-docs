@@ -1,0 +1,4 @@
+- [[jak]] - how
+- [[xto]] - what
+- [[wen]] - when
+- [[wer]] - where

@@ -1,0 +1,16 @@
+- [[nul]] - zero, nothing
+- [[jen]] - one
+- [[dyw]] - two
+- [[tyx]] - three
+- [[xyt]] - four
+- [[pen]] - five
+- [[heks]] - six 
+- [[xem]] - seven
+- [[oxm]] - eight
+- [[najn]] - nine
+- [[cejn]] - ten
+- [[sto]] - (one) hundred 
+- [[tys]] - (one) thousand
+- [[milon]] - (one) million
+- [[bilon]] - (one) billion
+- [[plu]] - plus 

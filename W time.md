@@ -1,0 +1,6 @@
+- [[oj]] - past
+- [[oh]] - present
+- [[om]] - future
+- [[dizen]] - day
+- [[monf]] - month
+- [[jar]] - year

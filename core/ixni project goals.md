@@ -1,0 +1,4 @@
+- simplicity: ixni is supposed to be a simplistic language, avoiding unnecessary things (like synonyms)
+- uniqueness: ixni is supposed to be a language like none other
+- consistency: ixni is supposed to have rules set in stone with barely any or no exceptions 
+- fun: ixni is supposed to be fun to create, learn and use

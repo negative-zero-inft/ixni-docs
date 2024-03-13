@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"3768a216e116e41a","type":"text","text":"i love you :3","x":-290,"y":-280,"width":250,"height":60},
+		{"id":"0dbb71592c8341fe","type":"text","text":"i love you too :3 <3","x":115,"y":-280,"width":250,"height":60,"color":"6"},
+		{"id":"64298580c12254e1","type":"text","text":"I fucking love you so much <3","x":-300,"y":-70,"width":250,"height":60,"color":"1"},
+		{"id":"3d404f73b190a40f","type":"file","file":"inxi words/anax.md","x":115,"y":-10,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"e4a5c05529eafa85","fromNode":"3768a216e116e41a","fromSide":"left","toNode":"0dbb71592c8341fe","toSide":"left"},
+		{"id":"097bad144c56ae7e","fromNode":"0dbb71592c8341fe","fromSide":"right","toNode":"64298580c12254e1","toSide":"right"},
+		{"id":"c2b952c6dab5c19c","fromNode":"64298580c12254e1","fromSide":"right","toNode":"3d404f73b190a40f","toSide":"left"},
+		{"id":"e5482bf63a75b486","fromNode":"64298580c12254e1","fromSide":"left","toNode":"0dbb71592c8341fe","toSide":"left"},
+		{"id":"31e9d837a568288d","fromNode":"64298580c12254e1","fromSide":"right","toNode":"0dbb71592c8341fe","toSide":"right"},
+		{"id":"defb40a23775f566","fromNode":"3768a216e116e41a","fromSide":"right","toNode":"0dbb71592c8341fe","toSide":"right"},
+		{"id":"0e90063c569e90e2","fromNode":"0dbb71592c8341fe","fromSide":"left","toNode":"3768a216e116e41a","toSide":"left"},
+		{"id":"acc43b8b395da1a9","fromNode":"0dbb71592c8341fe","fromSide":"left","toNode":"64298580c12254e1","toSide":"left"},
+		{"id":"e0005f8f65082dd7","fromNode":"64298580c12254e1","fromSide":"right","toNode":"3d404f73b190a40f","toSide":"left"},
+		{"id":"b5956f982cb80dcd","fromNode":"0dbb71592c8341fe","fromSide":"right","toNode":"3d404f73b190a40f","toSide":"left"},
+		{"id":"63a8d398e5f7cba3","fromNode":"3768a216e116e41a","fromSide":"right","toNode":"3d404f73b190a40f","toSide":"left"}
+	]
+}

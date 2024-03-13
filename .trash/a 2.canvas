@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"64298580c12254e1","type":"text","text":"I fucking love you so much <3","x":-180,"y":-280,"width":250,"height":60,"color":"1"},
+		{"id":"0dbb71592c8341fe","type":"text","text":"i love you too :3 <3","x":-180,"y":-360,"width":250,"height":60,"color":"6"},
+		{"id":"3768a216e116e41a","type":"text","text":"i love you :3","x":-180,"y":-440,"width":250,"height":60,"color":"1"},
+		{"id":"348242f68830c823","type":"text","text":"i somehow love you even more","x":-180,"y":-200,"width":250,"height":60,"color":"6"},
+		{"id":"7d1c9e1cf8cffe4a","type":"text","text":"you are the best <3","x":-180,"y":-120,"width":250,"height":60,"color":"1"},
+		{"id":"32345623f490a5f5","type":"file","file":"inxi words/anax.md","x":160,"y":-440,"width":400,"height":380}
+	],
+	"edges":[
+		{"id":"e4a5c05529eafa85","fromNode":"3768a216e116e41a","fromSide":"left","toNode":"0dbb71592c8341fe","toSide":"left"},
+		{"id":"097bad144c56ae7e","fromNode":"0dbb71592c8341fe","fromSide":"right","toNode":"64298580c12254e1","toSide":"right"},
+		{"id":"18e3769dde206ed4","fromNode":"64298580c12254e1","fromSide":"left","toNode":"348242f68830c823","toSide":"left"},
+		{"id":"d9773c70253f3290","fromNode":"348242f68830c823","fromSide":"right","toNode":"7d1c9e1cf8cffe4a","toSide":"right"}
+	]
+}

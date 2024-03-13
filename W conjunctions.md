@@ -1,0 +1,3 @@
+- [[by]] - to
+- [[dyla]] - for
+- [[ale]] - but

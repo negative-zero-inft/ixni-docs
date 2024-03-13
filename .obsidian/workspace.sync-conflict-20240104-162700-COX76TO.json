@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "a1356a290211d393",
+    "type": "split",
+    "children": [
+      {
+        "id": "d28c82fb98d7a84f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "35880af7e3299cf4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "examples/conlang wikipedia page fragment.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "440deefd48ce8bdd",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb4eaab0eff0992d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eefb23119dc9658b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6422f1c81f099857",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d041978e395ef9fb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1a595b03ba26d844",
+    "type": "split",
+    "children": [
+      {
+        "id": "bcda6323cd50cff4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e9140863a6f419a3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "examples/conlang wikipedia page fragment.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f4cd407a94ef712b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "examples/conlang wikipedia page fragment.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2133ad57bde21348",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "36cd62a57575ab5e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "examples/conlang wikipedia page fragment.md"
+              }
+            }
+          },
+          {
+            "id": "2fe1d15395b68264",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "35880af7e3299cf4",
+  "lastOpenFiles": [
+    "extras/-0.md",
+    "for devs/word preset.md",
+    "inxi words/jab.md",
+    "core/time and tense in ixni.md",
+    "Untitled.canvas",
+    "fox.md",
+    "inxi words/wyxotar.md",
+    "inxi words/oj.md",
+    "inxi words/oh.md",
+    "inxi words/inax.md",
+    "inxi words/dizen.md",
+    "inxi words/bus.md",
+    "inxi words/jelo.md",
+    "inxi words/progron.md",
+    "inxi words/tak.md",
+    "inxi words/oasduhasud.md",
+    "imgs/cube_98.png",
+    "2023-12-26.md",
+    "inxi words/tura.md",
+    "inxi words/manxaryn.md",
+    "inxi words/anax.md",
+    "inxi words/are.md",
+    "inxi words/by.md",
+    "inxi words/dyla.md",
+    "inxi words/gros.md",
+    "core/phonology.md",
+    "core/ixni.md",
+    "core/grammar.md",
+    "imgs/Screenshot_20231101-213838_Discord.png",
+    "imgs/Img_2023_11_30_11_00_04.jpeg",
+    "imgs/IMG_1271.jpg",
+    "Untitled 1.canvas",
+    "maksim.png",
+    "a.canvas",
+    "for devs",
+    "a.sync-conflict-20231130-221204-RWNNKT6.canvas",
+    "word categories",
+    "IMG_1271.jpg",
+    "Img_2023_11_30_11_00_04.jpeg",
+    "grammatical x-fixes",
+    "words"
+  ]
+}

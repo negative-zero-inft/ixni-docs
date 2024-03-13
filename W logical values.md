@@ -1,0 +1,2 @@
+- [[tura]] - true, yes
+- [[nehr]] - no, false

@@ -1,0 +1,3 @@
+- [ ] rearrange the ixni alphabet so that it makes sense
+- [ ] document more words
+- [ ] write some document/story in ixni
