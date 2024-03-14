@@ -1,7 +1,8 @@
-	[[ixni]] word.
+[[ixni]] word.
 #words
 # translations 
-- to be, być , a fi
+- to be, być, a fi
+- existence, istnienie
 # extra definitions
 denotes existence or identity
 # example usage

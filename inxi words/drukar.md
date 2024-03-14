@@ -2,6 +2,7 @@
 #words
 # translations
 - printer, drukarka, imprimare
+- to print, drukować
 # extra definitions
 any device that is capable of making print on paper (or any other material)
 # example usage

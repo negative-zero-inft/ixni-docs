@@ -1,0 +1,6 @@
+- [[bus]] - public transport
+- [[auto]] - car
+- [[tren]] - train
+- [[plen]] - airplane
+- [[yud]] - boat
+- [[roket]] - rocket

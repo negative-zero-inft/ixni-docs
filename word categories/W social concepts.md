@@ -1,0 +1,10 @@
+- [[xaro]] - hello, bye, to welcome, to bid farewell
+- [[kulup]] - team, group
+- [[znak]] - word
+- [[parter]] - married romantic partner
+- [[werk]] - to work, work
+- [[zamas]] - instead of
+- [[mix]] - with
+- [[jenedy]] - only
+- [[zbyt]] - too much
+- [[sjelo]] - body, avatar

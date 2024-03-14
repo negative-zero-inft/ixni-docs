@@ -1,0 +1,7 @@
+- [[krut]] - good, to make better
+- [[anax]] - to love, love
+- [[ufax]] - to trust, to believe in
+- [[senica]] - dream, to sleep, to dream, sleep
+- [[inax]] - different, difference, to change, to alter
+- [[tura]] - truth, yes, to say the truth, real
+- [[nehr]] - lie, no, to lie, false, fake

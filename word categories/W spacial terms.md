@@ -1,3 +1,4 @@
 - [[tu]] - here
 - [[to]] - this
 - [[tam]] - there
+- [[wy]] - in

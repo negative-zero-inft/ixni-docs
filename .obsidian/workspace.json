@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5bf68509f4245a4a",
+        "id": "7f572d2993c63033",
         "type": "tabs",
         "children": [
           {
-            "id": "0806c2cc12050e71",
+            "id": "6c2d2d91100360ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inxi words/mysix.md",
-                "mode": "source",
+                "file": "core/vocabulary.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inxi words/mysix.md",
+                "file": "core/vocabulary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "inxi words/mysix.md",
+                "file": "core/vocabulary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "inxi words/mysix.md"
+                "file": "core/vocabulary.md"
               }
             }
           },
@@ -159,35 +158,35 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0806c2cc12050e71",
+  "active": "6c2d2d91100360ee",
   "lastOpenFiles": [
-    "README.md",
-    "core/context.md",
-    "extras/sayings.md",
-    "extras/progress tracking.md",
+    "core/vocabulary.md",
+    "core/ixni.md",
+    "-! START HERE.md",
+    "word categories/W actions.md",
+    "word categories/W social concepts.md",
+    "word categories/W uncategorized.md",
+    "word categories/W qualities.md",
+    "word categories/W emotions and states.md",
+    "inxi words/durynu.md",
+    "word categories/W objects and things.md",
+    "word categories/W forms of transport.md",
+    "inxi words/progron.md",
+    "inxi words/pana.md",
+    "inxi words/open.md",
+    "word categories/W communication.md",
+    "inxi words/xat.md",
+    "for devs/word preset.md",
+    "word categories/W senses.md",
+    "inxi words/uxuc.md",
+    "word categories/W conjunctions.md",
     "word categories/W time.md",
     "word categories/W spacial terms.md",
-    "word categories/W pronouns.md",
-    "word categories/W logical values.md",
-    "word categories/W jokes.md",
-    "word categories/W interrogatives.md",
-    "word categories/W conjunctions.md",
-    "inxi words/xyt.md",
-    "inxi words/tyx.md",
-    "inxi words/esun.md",
-    "inxi words/dyw.md",
+    "inxi words/dom.md",
+    "inxi words/ufax.md",
+    "inxi words/klasik.md",
+    "inxi words/drukar.md",
     "LICENSE",
-    "word categories/W uncategorized.md",
-    "inxi words/mysix.md",
-    "raz.md",
-    "inxi words/raz.md",
-    "core/vocabulary.md",
-    "word categories/W math.md",
-    "word categories/W living things.md",
-    "word categories/W colors.md",
-    "inxi words/fraba.md",
-    "core/ixni.md",
-    "progress tracking.md",
     "imgs/ixni alphabet cheatsheet.png",
     "imgs/Img_2023_11_30_11_00_04.jpeg",
     "contributors",

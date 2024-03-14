@@ -1,0 +1,14 @@
+- [[syty]] - to sit
+- [[idi]] - to go, to run, to drive, to move, to commute
+- [[isix]] - to eat, food
+- [[open]] - start, to start, starting
+- [[drukar]] - printer, to print
+- [[usai]] - magic, to cast a spell
+- [[obraz]] - image, to draw, painting, to paint
+- [[tulix]] - to hug, hug
+- [[jorn]] - to own, to have, possession
+- [[pana]] - to give, gift
+- [[esun]] - to buy, purchase
+- [[lufix]] - to like
+- [[klepa]] - to pet, pet
+- [[kadyl]] - to cuddle

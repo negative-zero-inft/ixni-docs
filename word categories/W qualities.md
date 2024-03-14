@@ -1,0 +1,12 @@
+- [[smorto]] - smart, intelligent
+- [[durynu]] - dumb
+- [[rondomix]] - random
+- [[sui]] - sweet, cute
+- [[gros]] - big
+- [[strex]] - straight, heterosexual
+- [[silen]] - strong
+- [[wiel]] - a lot
+- [[xnel]] - fast
+- [[klasik]] - classic
+- [[moxex]] - to be able to, ability
+- [[ledo]] - head, main, leading

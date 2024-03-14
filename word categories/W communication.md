@@ -1,0 +1,6 @@
+- [[wyfoma]] - to speak, speech
+- [[xat]] - chat, to chat
+- [[mysix]] - to think, thought
+- [[uxyx]] - to teach
+- [[uxyxsa]] - to learn
+- [[sitelen]] - to write, text

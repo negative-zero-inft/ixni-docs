@@ -1,0 +1,3 @@
+- [[suyx]] - to hear, to sound like, sound
+- [[zejex]] - to see, to look like, view
+- [[uxuc]] - to feel, to smell, feeling, smell, to smell like
