@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inxi words/dizen.md",
-                "mode": "preview",
+                "file": "xpeil.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inxi words/dizen.md",
+                "file": "xpeil.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "inxi words/dizen.md",
+                "file": "xpeil.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "inxi words/dizen.md"
+                "file": "xpeil.md"
               }
             }
           },
@@ -160,6 +160,8 @@
   },
   "active": "6c2d2d91100360ee",
   "lastOpenFiles": [
+    "inxi words/dizen.md",
+    "xpeil.md",
     "core/vocabulary.md",
     "core/ixni.md",
     "-! START HERE.md",
@@ -184,8 +186,6 @@
     "word categories/W spacial terms.md",
     "inxi words/dom.md",
     "inxi words/ufax.md",
-    "inxi words/klasik.md",
-    "inxi words/drukar.md",
     "LICENSE",
     "imgs/ixni alphabet cheatsheet.png",
     "imgs/Img_2023_11_30_11_00_04.jpeg",
