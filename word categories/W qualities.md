@@ -10,3 +10,5 @@
 - [[klasik]] - classic
 - [[moxex]] - to be able to, ability
 - [[ledo]] - head, main, leading
+- [[neu]] - new
+- [[specyfix]] - specific

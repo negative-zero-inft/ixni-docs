@@ -1,1 +1,8 @@
-[[polix]] [[nihonix]] [[anglix]] [[rusix]] [[germanix]] [[spanix]] [[romanix]] [[woroxiw]] [[usonox]]
+- [[polix]] - poland
+- [[nihonix]] - japan 
+- [[anglix]] - england 
+- [[rusix]] - russia
+- [[germanix]] - germany
+- [[spanix]] - spain
+- [[romanix]] - romania
+- [[usonox]] - united states

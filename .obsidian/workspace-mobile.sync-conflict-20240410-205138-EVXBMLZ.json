@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "contributors/shebang.md",
+                "file": "pomysu.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:#words",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "contributors/shebang.md",
+            "file": "pomysu.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "contributors/shebang.md",
+            "file": "pomysu.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "contributors/shebang.md"
+            "file": "pomysu.md"
           }
         }
       }
@@ -134,36 +134,37 @@
   },
   "active": "42779fa657871d94",
   "lastOpenFiles": [
-    "contributors/NRD.md",
-    "contributors/CNB.md",
-    "imgs/cube_98.png",
+    "inxi words/dizen.md",
+    "pomysu.md",
+    "core/ixni.md",
+    "core/writing system.md",
+    "-! START HERE.md",
+    "inxi words/anax.md",
+    "inxi words/bus.md",
+    "xyjex.md",
+    "word categories/W uncategorized.md",
+    "word categories/W living things.md",
+    "inxi words/parter.md",
+    "xyjot.md",
+    "inxi words/durynu.md",
+    "inxi words/jer.md",
+    "inxi words/jak.md",
+    "inxi words/gonk.md",
+    "word categories/W colors.md",
+    "xaj.md",
+    "rux.md",
+    "inxi words/fraba.md",
+    "inxi words/brox.md",
+    "purpur.md",
+    "pomarax.md",
+    "zilen.md",
+    "grej.md",
+    "wajs.md",
     "imgs/ixni alphabet cheatsheet.png",
-    "grammatical x-fixes/ne.md",
-    "grammatical x-fixes/ort.md",
-    "for devs/word preset.md",
-    "inxi words/obraz.md",
-    "inxi words/oh.md",
-    "inxi words/nehr.md",
-    "inxi words/manxaryn.md",
-    "inxi words/mix.md",
-    "inxi words/jab.md",
-    "inxi words/jar.md",
-    "inxi words/je.md",
-    "extras/-0.md",
-    "contributors/shebang.md",
-    "core/ixni contributors.md",
-    "extras/NRD.md",
-    "extras/Linux Gang.md",
-    "extras/CNB.md",
     "contributors",
-    "sayings.md",
-    "core/ixni creators.md",
-    "core/ixni project goals.md",
-    "core/words.md",
-    "core/miscellaneous ixni features.md",
-    "inxi words/inax.md",
     "imgs/Screenshot_20231101-213838_Discord.png",
     "imgs/Img_2023_11_30_11_00_04.jpeg",
+    "imgs/cube_98.png",
     "imgs/IMG_1271.jpg"
   ]
 }

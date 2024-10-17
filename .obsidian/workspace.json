@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7f572d2993c63033",
+        "id": "94ea11435dc7b80e",
         "type": "tabs",
         "children": [
           {
-            "id": "6c2d2d91100360ee",
+            "id": "4995a6f756bf45aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "xpeil.md",
+                "file": "inxi words/brat.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "1a595b03ba26d844",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "xpeil.md",
+                "file": "inxi words/brat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "xpeil.md",
+                "file": "inxi words/brat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "xpeil.md"
+                "file": "inxi words/brat.md"
               }
             }
           },
@@ -158,34 +157,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6c2d2d91100360ee",
+  "active": "eefb23119dc9658b",
   "lastOpenFiles": [
-    "inxi words/dizen.md",
-    "xpeil.md",
-    "core/vocabulary.md",
-    "core/ixni.md",
-    "-! START HERE.md",
-    "word categories/W actions.md",
     "word categories/W social concepts.md",
-    "word categories/W uncategorized.md",
-    "word categories/W qualities.md",
+    "inxi words/brat.md",
+    "for devs/word preset.md",
+    "inxi words/polix.md",
+    "word categories/W proper names.md",
+    "core/vocabulary.md",
+    "word categories/W time.md",
+    "word categories/W pronouns.md",
+    "word categories/W spacial terms.md",
+    "word categories/W interrogatives.md",
+    "word categories/W conjunctions.md",
+    "word categories/W jokes.md",
+    "word categories/W senses.md",
+    "word categories/W communication.md",
     "word categories/W emotions and states.md",
-    "inxi words/durynu.md",
+    "word categories/W actions.md",
     "word categories/W objects and things.md",
     "word categories/W forms of transport.md",
-    "inxi words/progron.md",
-    "inxi words/pana.md",
-    "inxi words/open.md",
-    "word categories/W communication.md",
-    "inxi words/xat.md",
-    "for devs/word preset.md",
-    "word categories/W senses.md",
-    "inxi words/uxuc.md",
-    "word categories/W conjunctions.md",
-    "word categories/W time.md",
-    "word categories/W spacial terms.md",
-    "inxi words/dom.md",
-    "inxi words/ufax.md",
+    "word categories/W qualities.md",
+    "core/ixni.md",
+    "-! START HERE.md",
+    "inxi words/pomysu.md",
+    "inxi words/smorto.md",
+    "inxi words/suli.md",
+    "word categories/W uncategorized.md",
+    "ixni words.md",
     "LICENSE",
     "imgs/ixni alphabet cheatsheet.png",
     "imgs/Img_2023_11_30_11_00_04.jpeg",

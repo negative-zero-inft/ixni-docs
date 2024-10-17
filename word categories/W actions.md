@@ -12,3 +12,4 @@
 - [[lufix]] - to like
 - [[klepa]] - to pet, pet
 - [[kadyl]] - to cuddle
+- [[xpeil]] - to play, game 

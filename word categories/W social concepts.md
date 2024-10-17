@@ -8,3 +8,5 @@
 - [[jenedy]] - only
 - [[zbyt]] - too much
 - [[sjelo]] - body, avatar
+- [[ma]] - country
+- [[brat]] - sibling

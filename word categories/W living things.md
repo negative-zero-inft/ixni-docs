@@ -1,2 +1,7 @@
 #words 
-[[xyl]] [[xot]] [[fies]] [[krof]] [[maki]] [[kijete]] [[fox]] 
+- [[xyl]] - person, human 
+- [[xot]] - cat
+- [[fies]] - dog
+- [[krof]] - cow
+- [[kijete]] - raccoon
+- [[fox]] - fox 

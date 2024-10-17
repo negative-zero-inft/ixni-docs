@@ -3,7 +3,7 @@
 # translations
 - and, i, și
 # extra definitions
-it's the only exception to the [[e]] rule
+an exception to the [[e]] rule
 # example usage
 [[jab]] [[are]] [[jer]] - me and you
 # origin

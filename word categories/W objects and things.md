@@ -6,3 +6,6 @@
 - [[xoa]] - school
 - [[dom]] - home
 - [[skib]] - toilet
+- [[axyl]] - apple
+- [[xaut]] - world, planet
+- [[speis]] - space, cosmos

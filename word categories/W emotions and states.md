@@ -5,3 +5,5 @@
 - [[inax]] - different, difference, to change, to alter
 - [[tura]] - truth, yes, to say the truth, real
 - [[nehr]] - lie, no, to lie, false, fake
+- [[pomysu]] - idea
+- [[misy]] - to miss

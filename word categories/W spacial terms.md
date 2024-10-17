@@ -2,3 +2,5 @@
 - [[to]] - this
 - [[tam]] - there
 - [[wy]] - in
+- [[suli]] - important
+- [[zy]] - from

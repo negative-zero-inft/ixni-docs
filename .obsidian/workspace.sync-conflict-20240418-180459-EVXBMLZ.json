@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d28c82fb98d7a84f",
+        "id": "ffaf293a8246ba49",
         "type": "tabs",
         "children": [
           {
-            "id": "35880af7e3299cf4",
+            "id": "ce8c30ade6df08cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "core/time and tense in ixni.md",
-                "mode": "source",
+                "file": "word categories/W colors.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1a595b03ba26d844",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "core/time and tense in ixni.md",
+                "file": "word categories/W colors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "core/time and tense in ixni.md",
+                "file": "word categories/W colors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "core/time and tense in ixni.md"
+                "file": "word categories/W colors.md"
               }
             }
           },
@@ -148,53 +149,54 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "eefb23119dc9658b",
+  "active": "ce8c30ade6df08cb",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "core/time and tense in ixni.md",
-    "fox.md",
-    "inxi words/wyxotar.md",
-    "inxi words/oj.md",
-    "inxi words/oh.md",
-    "inxi words/inax.md",
-    "inxi words/dizen.md",
+    "polska w 1970.md",
+    "word categories/W colors.md",
+    "core/vocabulary.md",
+    "inxi words/durynu.md",
+    "word categories/W qualities.md",
+    "inxi words/rondomix.md",
+    "ixni words.md",
     "inxi words/bus.md",
-    "inxi words/jelo.md",
-    "inxi words/progron.md",
-    "inxi words/tak.md",
-    "inxi words/oasduhasud.md",
-    "imgs/cube_98.png",
-    "2023-12-26.md",
-    "inxi words/tura.md",
     "inxi words/jab.md",
-    "inxi words/manxaryn.md",
-    "inxi words/anax.md",
-    "inxi words/are.md",
-    "inxi words/by.md",
-    "inxi words/dyla.md",
-    "inxi words/gros.md",
-    "core/phonology.md",
-    "core/ixni.md",
+    "inxi words/jezek.md",
+    "core/context.md",
     "core/grammar.md",
-    "core/general facts about ixni.md",
-    "imgs/Screenshot_20231101-213838_Discord.png",
+    "core/sentences.md",
+    "core/ixni.md",
+    "-! START HERE.md",
+    "word categories/W social concepts.md",
+    "word categories/W forms of transport.md",
+    "word categories/W objects and things.md",
+    "word categories/W actions.md",
+    "word categories/W emotions and states.md",
+    "word categories/W communication.md",
+    "word categories/W senses.md",
+    "word categories/W jokes.md",
+    "word categories/W conjunctions.md",
+    "word categories/W interrogatives.md",
+    "word categories/W spacial terms.md",
+    "LICENSE",
+    "imgs/ixni alphabet cheatsheet.png",
     "imgs/Img_2023_11_30_11_00_04.jpeg",
-    "imgs/IMG_1271.jpg",
-    "Untitled 1.canvas",
+    "contributors",
+    "ixni sayings",
     "maksim.png",
     "a.canvas",
     "for devs",
     "a.sync-conflict-20231130-221204-RWNNKT6.canvas",
     "word categories",
+    "imgs/IMG_1271.jpg",
     "IMG_1271.jpg",
     "Img_2023_11_30_11_00_04.jpeg",
     "grammatical x-fixes",

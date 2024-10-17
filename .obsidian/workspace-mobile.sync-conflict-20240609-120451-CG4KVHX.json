@@ -1,48 +1,20 @@
 {
   "main": {
-    "id": "87474558f6a01263",
+    "id": "1be03d74be68034f",
     "type": "split",
     "children": [
       {
-        "id": "7189c456563bfe8d",
+        "id": "41733ec9f0084aed",
         "type": "tabs",
         "children": [
           {
-            "id": "0c8e72d5ac1d159b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "475e9075af068a8e",
+            "id": "42779fa657871d94",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "word categories/W uncategorized.md",
+                "file": "inxi words/tura.md",
                 "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "27bb321ceb0bfed0",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "2015f3ca4f6e6f72",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inxi words/xex.md",
-                "mode": "source",
                 "source": false
               }
             }
@@ -53,11 +25,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "a338f9db20e99c3f",
+    "id": "3de644b018247fd9",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "16a976e26c29e6b2",
+        "id": "f4a642c20c97ace0",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -67,12 +39,12 @@
         }
       },
       {
-        "id": "2a8e380c2e86fb33",
+        "id": "7cfedd73adab736d",
         "type": "leaf",
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:#words",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -82,7 +54,7 @@
         }
       },
       {
-        "id": "0314aee27e787cf2",
+        "id": "735cd2fda2cc76a3",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -93,7 +65,7 @@
         }
       },
       {
-        "id": "82cd17607261e710",
+        "id": "21924b630efc9045",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -104,16 +76,16 @@
     "currentTab": 0
   },
   "right": {
-    "id": "c10f5e35cc5827ef",
+    "id": "6e7c386e4ab4cd5a",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "92846738e2e748eb",
+        "id": "b54b653613009d80",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "word categories/W uncategorized.md",
+            "file": "inxi words/tura.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -125,24 +97,24 @@
         }
       },
       {
-        "id": "2194b93c6c95e7bc",
+        "id": "ba77f54b592f7c52",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "word categories/W uncategorized.md",
+            "file": "inxi words/tura.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
         }
       },
       {
-        "id": "76df684b500d49e1",
+        "id": "4cb638a87acff33c",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "word categories/W uncategorized.md"
+            "file": "inxi words/tura.md"
           }
         }
       }
@@ -151,61 +123,48 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "475e9075af068a8e",
+  "active": "42779fa657871d94",
   "lastOpenFiles": [
-    "gonk.md",
-    "word categories/W uncategorized.md",
-    "jar.md",
-    "skib.md",
-    "word categories/W colors.md",
-    "inxi words/brox.md",
     "inxi words/anax.md",
-    "inxi words/proseros.md",
-    "lufix.md",
-    "tren.md",
-    "grammatical x-fixes/ort.md",
-    "grammatical x-fixes/ent.md",
-    "inxi words/idi.md",
-    "inxi words/tura.md",
-    "sjelo.md",
-    "ledo.md",
-    "jabe ledo.md",
-    "inxi words/senica.md",
-    "shebang.md",
-    "extras/NRD.md",
-    "inxi words/jon.md",
+    "inxi words/bus.md",
+    "xyjex.md",
+    "word categories/W uncategorized.md",
+    "word categories/W living things.md",
+    "inxi words/parter.md",
+    "xyjot.md",
+    "inxi words/durynu.md",
+    "inxi words/jer.md",
     "inxi words/jak.md",
-    "moxex.md",
-    "werk.md",
-    "inxi words/open.md",
-    "inxi words/wyxotar.md",
-    "a.canvas",
-    "maksim.png",
+    "inxi words/gonk.md",
+    "word categories/W colors.md",
+    "xaj.md",
+    "rux.md",
+    "inxi words/fraba.md",
+    "inxi words/brox.md",
+    "purpur.md",
+    "pomarax.md",
+    "zilen.md",
+    "grej.md",
+    "wajs.md",
+    "sitelen.md",
+    "inxi words/xwarc.md",
+    "inxi words/jelo.md",
+    "inxi words/nab.md",
+    "core/sentences.md",
+    "imgs/ixni alphabet cheatsheet.png",
+    "contributors",
     "imgs/Screenshot_20231101-213838_Discord.png",
     "imgs/Img_2023_11_30_11_00_04.jpeg",
-    "imgs/IMG_1271.jpg",
     "imgs/cube_98.png",
-    "Pasted image 20231130214920.png",
-    "word categories",
-    "inxi words",
-    "imgs",
-    "grammatical x-fixes",
-    "for devs",
-    "extras",
-    "examples",
-    "core",
-    "cube_98.png",
-    "Screenshot_20231101-213838_Discord.png",
-    "words",
-    "words other"
+    "imgs/IMG_1271.jpg"
   ]
 }

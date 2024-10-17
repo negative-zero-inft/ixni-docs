@@ -13,8 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inxi words/anax.md",
+                "file": "xaut.md",
                 "mode": "preview",
+                "backlinks": false,
                 "source": false
               }
             }
@@ -44,7 +45,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#words",
+            "query": "miss",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -85,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "inxi words/anax.md",
+            "file": "xaut.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "inxi words/anax.md",
+            "file": "xaut.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "inxi words/anax.md"
+            "file": "xaut.md"
           }
         }
       }
@@ -134,32 +135,32 @@
   },
   "active": "42779fa657871d94",
   "lastOpenFiles": [
-    "inxi words/bus.md",
-    "xyjex.md",
-    "word categories/W uncategorized.md",
-    "word categories/W living things.md",
-    "inxi words/parter.md",
-    "xyjot.md",
-    "inxi words/durynu.md",
-    "inxi words/jer.md",
+    "inxi words/are.md",
+    "grammatical x-fixes/e.md",
+    "core/math.md",
+    "core/ixni.md",
+    "-! START HERE.md",
+    "misy.md",
+    "word categories/W emotions and states.md",
+    "for devs/word preset.md",
     "inxi words/jak.md",
-    "inxi words/gonk.md",
-    "word categories/W colors.md",
-    "xaj.md",
-    "rux.md",
-    "inxi words/fraba.md",
-    "inxi words/brox.md",
-    "purpur.md",
-    "pomarax.md",
-    "zilen.md",
-    "grej.md",
-    "wajs.md",
-    "sitelen.md",
-    "inxi words/xwarc.md",
-    "inxi words/jelo.md",
-    "inxi words/nab.md",
-    "core/sentences.md",
-    "inxi words/moxex.md",
+    "examples/conlang wikipedia page fragment.md",
+    "word categories/W qualities.md",
+    "specyfix.md",
+    "zy.md",
+    "yud.md",
+    "word categories/W actions.md",
+    "xpeil.md",
+    "xaut.md",
+    "suli.md",
+    "word categories/W objects and things.md",
+    "word categories/W spacial terms.md",
+    "speis.md",
+    "smorto.md",
+    "roket.md",
+    "pomysu.md",
+    "plen.md",
+    "pen.md",
     "imgs/ixni alphabet cheatsheet.png",
     "contributors",
     "imgs/Screenshot_20231101-213838_Discord.png",
