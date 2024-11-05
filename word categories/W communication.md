@@ -4,3 +4,4 @@
 - [[uxyx]] - to teach
 - [[uxyxsa]] - to learn
 - [[sitelen]] - to write, text
+- [[porosutu]] - frankly, simply

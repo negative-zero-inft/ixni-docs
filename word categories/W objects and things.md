@@ -9,3 +9,4 @@
 - [[axyl]] - apple
 - [[xaut]] - world, planet
 - [[speis]] - space, cosmos
+- [[seui]] - heaven
